@@ -2,7 +2,7 @@
 
 <!-- PROJECT SHIELDS -->
 [![Releases][releases-shield]][releases-url]
-<!-- [![Discord][discord-shield]][discord-url] -->
+[![Discord][discord-shield]][discord-url]
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![Donate][donate-shield]][donate-url]
 
