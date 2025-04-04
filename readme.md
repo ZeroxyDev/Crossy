@@ -2,8 +2,13 @@
 
 <!-- PROJECT SHIELDS -->
 [![Releases][releases-shield]][releases-url]
-[![Twitter Follow][twitter-shield]][twitter-url]
 [![Donate][donate-shield]][donate-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Apache License 2.0][license-shield]][license-url]
+[![Downloads][downloads-shield]][downloads-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -245,6 +250,18 @@ Project Link: [https://github.com/ZeroxyDev/crossy](https://github.com/ZeroxyDev
 [releases-url]: https://github.com/ZeroxyDev/crossy/releases
 [discord-shield]: https://img.shields.io/discord/123456789?color=5865F2&label=discord&logo=discord&logoColor=white&style=for-the-badge
 [discord-url]: https://discord.gg/zeroxydev
+[contributors-shield]: https://img.shields.io/github/contributors/ZeroxyDev/crossy.svg?style=for-the-badge
+[contributors-url]: https://github.com/ZeroxyDev/crossy/graphs/contributors
+[downloads-shield]: https://img.shields.io/github/downloads/zeroxydev/crossy/total?color=%2331c754&label=Downloads&logoColor=%23ffffff&style=for-the-badge
+[downloads-url]: https://github.com/ZeroxyDev/crossy/releases/latest
+[forks-shield]: https://img.shields.io/github/forks/ZeroxyDev/crossy.svg?style=for-the-badge
+[forks-url]: https://github.com/ZeroxyDev/crossy/network/members
+[stars-shield]: https://img.shields.io/github/stars/ZeroxyDev/crossy.svg?style=for-the-badge
+[stars-url]: https://github.com/ZeroxyDev/crossy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ZeroxyDev/crossy.svg?style=for-the-badge
+[issues-url]: https://github.com/ZeroxyDev/crossy/issues
+[license-shield]: https://img.shields.io/github/license/ZeroxyDev/crossy.svg?style=for-the-badge
+[license-url]: https://github.com/ZeroxyDev/crossy/blob/main/LICENSE.md
 [twitter-shield]: https://img.shields.io/twitter/follow/zeroxydev?style=for-the-badge&logo=x&color=fff&labelColor=000000&label=Follow&logoColor=white
 [twitter-url]: https://x.com/zeroxydev
 [donate-shield]: https://img.shields.io/badge/$-donate-ff69b4.svg?style=for-the-badge
