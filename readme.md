@@ -25,8 +25,6 @@
     <a href="https://github.com/ZeroxyDev/crossy/issues">Report Bug</a>
     ·
     <a href="https://github.com/ZeroxyDev/crossy/issues">Request Feature</a>
-    ·
-    <a href="https://discord.gg/zeroxydev">Discord</a>
   </p>
 </div>
 
