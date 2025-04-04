@@ -2,7 +2,6 @@
 
 <!-- PROJECT SHIELDS -->
 [![Releases][releases-shield]][releases-url]
-[![Discord][discord-shield]][discord-url]
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![Donate][donate-shield]][donate-url]
 
@@ -246,7 +245,7 @@ Project Link: [https://github.com/ZeroxyDev/crossy](https://github.com/ZeroxyDev
 [releases-url]: https://github.com/ZeroxyDev/crossy/releases
 [discord-shield]: https://img.shields.io/discord/123456789?color=5865F2&label=discord&logo=discord&logoColor=white&style=for-the-badge
 [discord-url]: https://discord.gg/zeroxydev
-[twitter-shield]: https://img.shields.io/twitter/follow/zeroxydev?style=for-the-badge&logo=x&color=000000&labelColor=000000&label=Follow&logoColor=white
+[twitter-shield]: https://img.shields.io/twitter/follow/zeroxydev?style=for-the-badge&logo=x&color=fff&labelColor=000000&label=Follow&logoColor=white
 [twitter-url]: https://x.com/zeroxydev
 [donate-shield]: https://img.shields.io/badge/$-donate-ff69b4.svg?style=for-the-badge
 [donate-url]: https://ko-fi.com/zeroxydev
